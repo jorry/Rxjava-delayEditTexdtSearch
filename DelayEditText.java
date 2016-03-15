@@ -16,7 +16,7 @@ import rx.functions.Func1;
  * Created by jorryLiu on 2016/3/15.
  * liujiawei@puhuifinance.com
  */
-public class DelayEditText extends ThinEditText {
+public class DelayEditText extends EditText {
 
     public static final int DELAY_TIME = 600;
 
